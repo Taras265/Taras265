@@ -10,10 +10,10 @@ Some about me:
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
 
 My lessons:
-- [Django](https://github.com/Taras265)
+- [Django](https://github.com/Taras265/Routes-Django)
 
 My projects:
-- I hasnt got my projects :(
+- [Website Route](https://github.com/Taras265/Routes-Django)
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
