@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hello! My name is Taras!
 
+Some about me:
+- I 14 years old
+- I learned Python from [Coursera](https://ru.coursera.org/)
+- I has got 2 years of Python expirience
+
+<b>Technologies:</b>
+
+![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
+
+My lessons:
+- [Django](https://github.com/Taras265)
+
+My projects:
+- I hasnt got my projects :(
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
