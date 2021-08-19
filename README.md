@@ -14,6 +14,7 @@ My lessons:
 
 My projects:
 - [Website Route](https://github.com/Taras265/Routes-Django)
+- [Website School Journal](https://github.com/Taras265/Journal)
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
