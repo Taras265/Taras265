@@ -2,7 +2,7 @@
 
 Some about me:
 - I 14 years old
-- I learned Python from [Coursera](https://ru.coursera.org/)
+- I learned Python from [Coursera](https://ru.coursera.org/), Django from [Udemy](https://www.udemy.com)
 - I has got 2 years of Python expirience
 
 <b>Technologies:</b>
@@ -10,10 +10,9 @@ Some about me:
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
 
 My lessons:
-- [Django](https://github.com/Taras265/Routes-Django)
+- [Django](https://github.com/Taras265/Routes-Django) - -[Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
 
 My projects:
-- [Website Route](https://github.com/Taras265/Routes-Django)
 - [Website School Journal](https://github.com/Taras265/Journal)
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
