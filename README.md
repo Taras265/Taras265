@@ -10,7 +10,7 @@ Some about me:
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
 
 My lessons:
-- [Django](https://github.com/Taras265/Routes-Django) - -[Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
+- [Django](https://github.com/Taras265/Routes-Django) - [Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
 
 My projects:
 - [Website School Journal](https://github.com/Taras265/Journal)
