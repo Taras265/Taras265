@@ -8,6 +8,7 @@ Some about me:
 <b>Technologies:</b>
 
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
+![Django](https://img.shields.io/badge/Django-3.2-success)
 
 My lessons:
 - [Routes-Django](https://github.com/Taras265/Routes-Django) - [Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
