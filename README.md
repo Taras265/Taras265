@@ -10,11 +10,12 @@ Some about me:
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
 ![Django](https://img.shields.io/badge/Django-3.2-success)
 
-My lessons:
+My projects by lessons:
 - [Routes-Django](https://github.com/Taras265/Routes-Django) - [Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
 
 My projects:
 - [Website School Journal](https://github.com/Taras265/Journal)
+- [Photo Blog](https://github.com/Taras265/PhotoBlog)
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
