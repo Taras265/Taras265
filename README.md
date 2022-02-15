@@ -15,7 +15,6 @@ My lessons:
 
 My projects:
 - [Website School Journal](https://github.com/Taras265/Journal)
-- [Boots Shop](https://github.com/Taras265/Shop)
 <!--
 **Taras265/Taras265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
