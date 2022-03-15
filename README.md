@@ -1,7 +1,7 @@
 ### Hello! My name is Taras!
 
 Some about me:
-- I 14 years old
+- I 15 years old
 - I learned Python from [Coursera](https://ru.coursera.org/), Django from [Udemy](https://www.udemy.com)
 - I has got 2 years of Python expirience
 
