@@ -2,7 +2,7 @@
 
 Some about me:
 - I 15 years old
-- I learned Python from [Coursera](https://ru.coursera.org/), Django from [Udemy](https://www.udemy.com)
+- I learned Python from [Coursera](https://ru.coursera.org/), Django and FastAPI from [Udemy](https://www.udemy.com)
 - I has got 2 years of Python expirience
 
 <b>Technologies:</b>
