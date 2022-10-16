@@ -14,7 +14,7 @@ My projects by lessons:
 - [Routes-Django](https://github.com/Taras265/Routes-Django) - [Udemy](https://www.udemy.com/course/django-31-junior-django-developer/)
 - [FastAPI learning](https://github.com/Taras265/FastAPI_learning/tree/main) - [Udemy](https://www.udemy.com/course/fastapi-the-complete-course)
 
-My projects:
+My projects finished projects:
 - [Website School Journal](https://github.com/Taras265/Journal)
 - [Photo Blog](https://github.com/Taras265/PhotoBlog)
 <!--
